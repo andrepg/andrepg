@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤖 I'm André Paul Grandsire, a brazilian developer
+
+💼 Currently I'm working mostly with `PHP`, `Delphi` and learning some web technologies. 
+
+📩 You can talk to me on `aplg.projetos@gmail.com` or `anndrepaul@protonmail.com`
+
+👀 Feel free to explore my public repositories!
