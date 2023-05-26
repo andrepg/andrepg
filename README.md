@@ -25,14 +25,4 @@ Here you can find some technical details about what tools I've been using and wh
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aplg.projetos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrepg)
 
---- 
-
-
-<div style="display: flex;flex-direction: row;justify-content: space-around;" >
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/andrepg?cardType=level&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com?user=andrepg&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-
 👀 Feel free to explore all my public repositories or contact me to know more about my portfolio or private projects!
