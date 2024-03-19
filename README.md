@@ -20,5 +20,7 @@ Here you can find some technical details about what tools I've been using and wh
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aplg.projetos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrepg)
+[![Twitch](https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/anndrepaul)
+
 
 👀 Feel free to explore all my public repositories or contact me to know more about my portfolio or private projects!
