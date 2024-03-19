@@ -1,10 +1,6 @@
 # Hi there 👋
 
-I'm **André Paul Grandsire**, a 🇧🇷 brazilian developer, located in Buenos Aires. 
-
-🗣 I can speak _Portuguese_, _English_ and _Spanish_. Have been working with technology since was 15 years old. I've started with Technical Support and make my way up to Full Stack. 
-
-There's some private works that should be released soon in Envato, such as my own CMS and some public works available here and my [Opensource work](https://github.com/startap-opensource). You can contact and sponsor any of these works throught GitHub Sponsor and, soon, others platforms.
+I'm **André Paul Grandsire**, a 🇧🇷 brazilian developer, located in Buenos Aires. I can help you in Portuguese, English and Spanish. Working with process creation and software development for almost 10 years.
   
 ## 💼 What can I work with?
 
